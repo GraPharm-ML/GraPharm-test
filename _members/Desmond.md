@@ -1,7 +1,7 @@
 ---
 name: Desmond akabetso Nde
 image: images/Des.jpg
-description: team member
+description: Team member
 links:
   email: ls763344978@gmail.com
   LinkedIn: https://www.linkedin.com/in/xiaosong-liu-88288b121/
