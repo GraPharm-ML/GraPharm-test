@@ -1,1 +1,1 @@
-Sitemap: /Grapharm-ml/sitemap.xml
+Sitemap: /sitemap.xml
