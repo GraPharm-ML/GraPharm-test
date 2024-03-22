@@ -1,5 +1,5 @@
 ---
-name: Jane Smith
+name: Xiaosong Liu
 image: images/photo.jpg
 role: pi
 aliases:
