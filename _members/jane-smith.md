@@ -1,13 +1,13 @@
 ---
 name: Xiaosong Liu
 image: images/photo.jpg
-role: member
+role: postdoc at Institut Pasteur
 aliases:
   - X. LIU
   - X LIU
 links:
-  home-page: https://xiaosongliu.com
-  orcid: 0000-0001-8713-9213
+  email: ls763344978@gmail.com
+  LinkedIn: https://www.linkedin.com/in/xiaosong-liu-88288b121/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
