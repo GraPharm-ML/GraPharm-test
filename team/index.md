@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Driven by passion and expertise, our team at GraPharma is committed to pushing the boundaries of AI in pharmaceuticals. Together, we're revolutionizing data analysis and knowledge graph development to empower informed decision-making in the industry.
 
 {% include section.html %}
 
