@@ -1,12 +1,12 @@
 ---
 name: Xiaosong Liu
 image: images/photo.jpg
-role: pi
+role: member
 aliases:
-  - J. Smith
-  - J Smith
+  - X. LIU
+  - X LIU
 links:
-  home-page: https://janesmith.com
+  home-page: https://xiaosongliu.com
   orcid: 0000-0001-8713-9213
 ---
 
