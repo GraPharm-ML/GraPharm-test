@@ -1,10 +1,13 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
+name: Hoa Nguyen Thi Thanh
+
+image: images/Pi.jpg
+description: Team leader
+role: Team leader
 group: alum
 links:
-  github: john-doe
+  email:  hoantt.d2011@uphcm.edu.vn
+  LinkedIn: 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

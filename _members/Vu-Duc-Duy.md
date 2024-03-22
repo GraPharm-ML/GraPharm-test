@@ -1,8 +1,7 @@
 ---
 name: Vu Duc Duy
-image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+image: images/Duy.jpg
+description: Team member
 links:
   email: duynth29@gmail.com
   LinkedIn: 
