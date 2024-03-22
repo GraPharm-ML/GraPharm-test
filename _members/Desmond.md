@@ -1,11 +1,7 @@
 ---
-name: Xiaosong Liu
-image: images/Song.jpg
-description: Lead Programmer
-role: postdoc at Institut Pasteur
-aliases:
-  - X. LIU
-  - X LIU
+name: Desmond akabetso Nde
+image: images/Des.jpg
+description: team member
 links:
   email: ls763344978@gmail.com
   LinkedIn: https://www.linkedin.com/in/xiaosong-liu-88288b121/
