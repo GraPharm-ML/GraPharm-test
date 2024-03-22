@@ -1,6 +1,6 @@
 ---
 name: Xiaosong Liu
-image: images/photo.jpg
+image: images/background.jpg
 role: postdoc at Institut Pasteur
 aliases:
   - X. LIU
