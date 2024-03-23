@@ -27,13 +27,13 @@
   tags:
     - demo, youtube
 
-- title: Cool webserver
+- title: Cool web server
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://grapharm.streamlit.app/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - webserver
+    - web server
 
 
