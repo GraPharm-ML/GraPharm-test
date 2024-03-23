@@ -12,7 +12,7 @@ At GraPharm, we are propelled by an unwavering dedication to innovation and a co
 
 {% include section.html %}
 
-## Highlighted
+## Probelms & Potentials in Drug Discovery
 
 {% include section.html %}
 
