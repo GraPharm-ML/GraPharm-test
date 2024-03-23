@@ -1,3 +1,20 @@
+
+- title: Demo Package
+  group: featured
+  image: images/youtube.jpg
+  link: https://youtube.com/
+  description: interesting showcases, see how our platform can help
+  tags:
+    - demo, youtube
+
+- title: Web Server
+  group: featured
+  image: images/1-logo.png
+  link: https://grapharm.streamlit.app/
+  description: easy to run, find your connections 
+  tags:
+    - web server
+
 - title: Dataset Package
   group: featured
   image: images/data_logo.jpg
@@ -14,18 +31,6 @@
   tags:
     - github
 
-- title: Demo Package
-  image: images/youtube.jpg
-  link: https://youtube.com/
-  description: interesting showcases, see how our platform can help
-  tags:
-    - demo, youtube
 
-- title: Web Server
-  image: images/1-logo.png
-  link: https://grapharm.streamlit.app/
-  description: easy to run, find your connections 
-  tags:
-    - web server
 
 
