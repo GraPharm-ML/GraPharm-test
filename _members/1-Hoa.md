@@ -6,7 +6,7 @@ role: Team leader
 group: alum
 links:
   email:  hoantt.d2011@uphcm.edu.vn
-  linkedin: 
+  linkedin: hnguyentt
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
