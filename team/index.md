@@ -24,8 +24,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/team-1.jpg" %}
+{% include figure.html image="images/team-2.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
