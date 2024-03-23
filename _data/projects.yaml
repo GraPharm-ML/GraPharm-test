@@ -11,7 +11,7 @@
   group: featured
   image: images/github.png
   link: https://github.com/GraPharm-ML/grapharm
-  description: install with conda, manupulate your own connection
+  description: manupulate your own connection
   repo: greenelab/lab-website-template
   tags:
     - github
