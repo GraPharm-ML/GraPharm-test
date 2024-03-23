@@ -15,6 +15,14 @@
   tags:
     - web server
 
+- title: GitHub Package
+  group: featured
+  image: images/github.png
+  link: https://github.com/GraPharm-ML/grapharm
+  description: manupulate your own connection
+  tags:
+    - github
+
 - title: Dataset Package
   group: featured
   image: images/data_logo.jpg
@@ -23,13 +31,7 @@
   tags:
     - dataset
 
-- title: GitHub Package
-  group: featured
-  image: images/github.png
-  link: https://github.com/GraPharm-ML/grapharm
-  description: manupulate your own connection
-  tags:
-    - github
+
 
 
 
