@@ -18,10 +18,4 @@ At GraPharma, we are propelled by an unwavering dedication to innovation and a c
 
 {% include section.html %}
 
-## All
 
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
