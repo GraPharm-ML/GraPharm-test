@@ -1,9 +1,8 @@
 - title: Dataset Package
   group: featured
-  image: images/photo.jpg
+  image: images/data_logo.jpg
   link: https://github.com/
   description: the dataset used for model trainning
-  repo: greenelab/lab-website-template
   tags:
     - dataset
 
@@ -12,7 +11,6 @@
   image: images/github.png
   link: https://github.com/GraPharm-ML/grapharm
   description: manupulate your own connection
-  repo: greenelab/lab-website-template
   tags:
     - github
 
@@ -20,7 +18,6 @@
   image: images/youtube.jpg
   link: https://youtube.com/
   description: interesting showcases, see how our platform can help
-  repo: greenelab/lab-website-template
   tags:
     - demo, youtube
 
@@ -28,7 +25,6 @@
   image: images/1-logo.png
   link: https://grapharm.streamlit.app/
   description: easy to run, find your connections 
-  repo: greenelab/lab-website-template
   tags:
     - web server
 
