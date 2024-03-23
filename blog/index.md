@@ -16,7 +16,7 @@ Welcome to the GraPharma Blog, your multifaceted platform for discovering the la
 
 {% include search-info.html %}
 
-##Art gallery: Where Science Meets Creativity
+## Art gallery: Where Science Meets Creativity
 {% capture col1 %}
 
 {%
@@ -61,5 +61,5 @@ sed do eiusmod tempor
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
 
-##Latest News
+## Latest News
 
