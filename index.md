@@ -53,7 +53,7 @@ From Data to Discovery: Revolutionizing Drug Development with Intelligent Graphs
 
 {%
   include feature.html
-  image="images/1-logo.png"
+  image="images/platform.png"
   link="projects"
   title="Our Platform"
   flip=true
