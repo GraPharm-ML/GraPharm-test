@@ -7,14 +7,14 @@
   tags:
     - dataset
 
-- title: GitHup
+- title: GitHub
   group: featured
-  image: images/githup.png
+  image: images/github.png
   link: https://github.com/GraPharm-ML/grapharm
   description: install with conda, manupulate your own connection
   repo: greenelab/lab-website-template
   tags:
-    - githup
+    - github
 
 - title: Demo
   image: images/photo.jpg
