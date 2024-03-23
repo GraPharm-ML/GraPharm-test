@@ -17,7 +17,6 @@
     - githup
 
 - title: Demo
-  subtitle: a subtitle
   image: images/photo.jpg
   link: https://youtube.com/
   description: interesting showcases, see how our platform can help
@@ -26,7 +25,6 @@
     - demo, youtube
 
 - title: Web Server
-  subtitle: search the connect for your interest
   image: images/photo.jpg
   link: https://grapharm.streamlit.app/
   description: easy to run, find your connections 
