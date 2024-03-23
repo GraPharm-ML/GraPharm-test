@@ -14,8 +14,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="contactus@grapharma.com"
+  link="contactus@grapharm.com"
 %}
 {%
   include button.html
@@ -36,7 +36,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/contactus-1.jpg"
   caption="Lorem ipsum"
 %}
 
@@ -46,7 +46,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/contactus-2.jpg"
   caption="Lorem ipsum"
 %}
 
