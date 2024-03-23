@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: GraPharm
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: A Graph-based AI Platform to Uncover Novel Pharmacological Links
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
