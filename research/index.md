@@ -5,10 +5,9 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}About GraPharma
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+GraPharma emerged from the collaborative efforts of a diverse team of passionate individuals at the D4Gen Hackathon 2024. With backgrounds ranging from pharmaceuticals to artificial intelligence and beyond, we united under a common vision: to revolutionize pharmaceutical data analysis and knowledge graph development.
 
 {% include section.html %}
 
