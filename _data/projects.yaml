@@ -1,19 +1,18 @@
 - title: Cool Dataset
-  subtitle: a subtitle
+  subtitle: a huge publish dataset
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: the dataset used for model trainning
   repo: greenelab/lab-website-template
   tags:
     - dataset
 
-- title: Githup
-  subtitle: a subtitle
+- title: GitHup
   group: featured
-  image: images/photo.jpg
+  image: images/githup.jpg
   link: https://github.com/GraPharm-ML/grapharm
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: install with conda, manupulate your own connection
   repo: greenelab/lab-website-template
   tags:
     - githup
@@ -22,16 +21,16 @@
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://youtube.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: interesting showcases, see how our platform can help
   repo: greenelab/lab-website-template
   tags:
     - demo, youtube
 
 - title: Web Server
-  subtitle: a subtitle
+  subtitle: search the connect for your interest
   image: images/photo.jpg
   link: https://grapharm.streamlit.app/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: easy to run, find your connections 
   repo: greenelab/lab-website-template
   tags:
     - web server
