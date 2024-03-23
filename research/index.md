@@ -23,7 +23,7 @@ At GraPharma, we are propelled by an unwavering dedication to innovation and a c
   include figure.html
   image="images/graph_pharmaco-01.gif"
   caption=" "
-  style="width: 150px; height: 202.5px;" <!-- Adjust width and height as needed -->
+  style="width: 150px; height: 203px;" <!-- Adjust width and height as needed -->
 %}
 
 {% endcapture %}
@@ -34,7 +34,7 @@ At GraPharma, we are propelled by an unwavering dedication to innovation and a c
   include figure.html
   image="images/graph_pharmaco-02.gif"
   caption=" "
-  style="width: 150px; height: 202.5px;" <!-- Adjust width and height as needed -->
+  style="width: 150px; height: 203px;" <!-- Adjust width and height as needed -->
 %}
 
 {% endcapture %}
