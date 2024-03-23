@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Driven by passion and expertise, our team at GraPharma is committed to pushing the boundaries of AI in pharmaceuticals. Together, we're revolutionizing data analysis and knowledge graph development to empower informed decision-making in the industry.
+Driven by passion and expertise, our team at GraPharm is committed to pushing the boundaries of AI in pharmaceuticals. Together, we're revolutionizing data analysis and knowledge graph development to empower informed decision-making in the industry.
 
 {% include section.html %}
 
@@ -16,7 +16,7 @@ Driven by passion and expertise, our team at GraPharma is committed to pushing t
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-At GraPharma, we're not just a team; we're a vibrant community of young, passionate individuals driven by a shared love for science and innovation. Our youthful energy fuels our creativity and propels us forward as we explore the frontiers of pharmaceutical research.
+At GraPharm, we're not just a team; we're a vibrant community of young, passionate individuals driven by a shared love for science and innovation. Our youthful energy fuels our creativity and propels us forward as we explore the frontiers of pharmaceutical research.
 
 {% include section.html %}
 

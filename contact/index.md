@@ -14,8 +14,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="contactus@grapharma.com"
-  link="contactus@grapharm.com"
+  text="grapharm.ml@gmail.com"
+  link="grapharm.ml@gmail.com"
 %}
 {%
   include button.html

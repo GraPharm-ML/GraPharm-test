@@ -1,9 +1,9 @@
 ---
 ---
 
-# GraPharma
+# GraPharm
 
-GraPharma emerged from the collaborative efforts of a diverse team of passionate individuals at the D4Gen Hackathon 2024. With backgrounds ranging from structural biology, pharmaceuticals to artificial intelligence and beyond, we united under a common vision: to revolutionize pharmaceutical data analysis using knowledge graph-based AI method.
+GraPharm emerged from the collaborative efforts of a diverse team of passionate individuals at the D4Gen Hackathon 2024. With backgrounds ranging from structural biology, pharmaceuticals to artificial intelligence and beyond, we united under a common vision: to revolutionize pharmaceutical data analysis using knowledge graph-based AI method.
 
 {% include section.html %}
 
