@@ -8,7 +8,7 @@
   tags:
     - dataset
 
-- title: Cool Package
+- title: Githup
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
@@ -18,16 +18,16 @@
   tags:
     - githup
 
-- title: Cool Demo
+- title: Demo
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://youtube.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - demo, youtube
 
-- title: Cool web server
+- title: Web Server
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://grapharm.streamlit.app/

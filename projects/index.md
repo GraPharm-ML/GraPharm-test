@@ -16,12 +16,11 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Featured
-
-{% include list.html component="card" data="projects" filters="group: featured" %}
+## Githup
+{% include list.html component="card" data="projects" filters="group: github" style="small" %}
 
 {% include section.html %}
 
-## More
+## Web Server
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: web server" style="small" %}
