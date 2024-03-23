@@ -20,7 +20,7 @@ At GraPharma, we are propelled by an unwavering dedication to innovation and a c
 {% capture col1 %}
 
 {%
-  include figures-aboutus.html
+  include figure.html
   image="images/graph_pharmaco-01.gif"
   caption=" "
 %}
@@ -30,7 +30,7 @@ At GraPharma, we are propelled by an unwavering dedication to innovation and a c
 {% capture col2 %}
 
 {%
-  include figure-aboutus.html
+  include figure.html
   image="images/graph_pharmaco-02.gif"
   caption=" "
 %}
