@@ -1,4 +1,4 @@
-- title: Dataset
+- title: Dataset Package
   group: featured
   image: images/photo.jpg
   link: https://github.com/
@@ -7,7 +7,7 @@
   tags:
     - dataset
 
-- title: GitHub
+- title: GitHub Package
   group: featured
   image: images/github.png
   link: https://github.com/GraPharm-ML/grapharm
@@ -16,8 +16,8 @@
   tags:
     - github
 
-- title: Demo
-  image: images/photo.jpg
+- title: Demo Package
+  image: images/youtube.jpg
   link: https://youtube.com/
   description: interesting showcases, see how our platform can help
   repo: greenelab/lab-website-template
@@ -25,7 +25,7 @@
     - demo, youtube
 
 - title: Web Server
-  image: images/photo.jpg
+  image: images/1-logo.png
   link: https://grapharm.streamlit.app/
   description: easy to run, find your connections 
   repo: greenelab/lab-website-template
