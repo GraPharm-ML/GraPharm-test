@@ -1,5 +1,4 @@
-- title: Cool Dataset
-  subtitle: a huge publish dataset
+- title: Dataset
   group: featured
   image: images/photo.jpg
   link: https://github.com/
@@ -10,7 +9,7 @@
 
 - title: GitHup
   group: featured
-  image: images/githup.jpg
+  image: images/githup.png
   link: https://github.com/GraPharm-ML/grapharm
   description: install with conda, manupulate your own connection
   repo: greenelab/lab-website-template
