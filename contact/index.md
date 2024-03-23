@@ -37,7 +37,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/contactus-1.jpg"
-  caption="Lorem ipsum"
+  caption=" "
 %}
 
 {% endcapture %}
@@ -47,7 +47,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/contactus-2.jpg"
-  caption="Lorem ipsum"
+  caption=" "
 %}
 
 {% endcapture %}
