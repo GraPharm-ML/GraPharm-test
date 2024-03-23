@@ -16,9 +16,7 @@ Driven by passion and expertise, our team at GraPharma is committed to pushing t
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+At GraPharma, we're not just a team; we're a vibrant community of young, passionate individuals driven by a shared love for science and innovation. Our youthful energy fuels our creativity and propels us forward as we explore the frontiers of pharmaceutical research.
 
 {% include section.html %}
 

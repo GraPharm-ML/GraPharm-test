@@ -8,11 +8,11 @@ nav:
 
 # {% include icon.html %}Our Mission
 
-At GraPharma, we're not just a team; we're a vibrant community of young, passionate individuals driven by a shared love for science and innovation. Our youthful energy fuels our creativity and propels us forward as we explore the frontiers of pharmaceutical research.
+At GraPharma, we are propelled by an unwavering dedication to innovation and a collective commitment to unraveling the intricate connections among drugs, diseases, pathways, and targets. Our mission transcends traditional boundaries in drug discovery, seeking to unleash the complete potential of pharmaceutical networks for drug repurposing and beyond.
 
 {% include section.html %}
 
-## Highlighted 
+## Highlighted
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
