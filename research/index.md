@@ -1,5 +1,5 @@
 ---
-title: Research
+title: About us
 nav:
   order: 1
   tooltip: Published works
