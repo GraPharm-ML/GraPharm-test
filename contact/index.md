@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Whether you're a researcher, industry professional, or enthusiast, we welcome the opportunity to connect with you. Drop us a message, give us a call, or connect with us on social media. We look forward to hearing from you and exploring how we can collaborate to advance the field of pharmaceutical research together.
 
 {%
   include button.html
