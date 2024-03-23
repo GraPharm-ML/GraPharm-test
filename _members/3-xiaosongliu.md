@@ -4,7 +4,7 @@ image: images/Song.jpg
 description: Team member
 links:
   email: ls763344978@gmail.com
-  LinkedIn: https://www.linkedin.com/in/xiaosong-liu-88288b121/
+  linkedin: https://www.linkedin.com/in/xiaosong-liu-88288b121/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
