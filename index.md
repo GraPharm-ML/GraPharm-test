@@ -1,9 +1,9 @@
 ---
 ---
 
-# GraPharm-ML's Website
+# GraPharm's Website
 
-An engaging 1-3 sentence description of your lab.
+GraPharma emerged from the collaborative efforts of a diverse team of passionate individuals at the D4Gen Hackathon 2024. With backgrounds ranging from pharmaceuticals to artificial intelligence and beyond, we united under a common vision: to revolutionize pharmaceutical data analysis and knowledge graph development.
 
 {% include section.html %}
 

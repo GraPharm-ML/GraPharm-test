@@ -5,13 +5,10 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html %}About GraPharma
-
-GraPharma emerged from the collaborative efforts of a diverse team of passionate individuals at the D4Gen Hackathon 2024. With backgrounds ranging from pharmaceuticals to artificial intelligence and beyond, we united under a common vision: to revolutionize pharmaceutical data analysis and knowledge graph development.
 
 # {% include icon.html %}Our Mission
 
-At GraPharma, we are driven by a relentless pursuit of innovation and a shared commitment to uncovering the intricate links between drugs, diseases, pathways, and targets. Our mission extends beyond conventional boundaries, aiming to unlock the full potential of pharmaceutical data for purposes such as drug repurposing and beyond.
+At GraPharma, we are propelled by an unwavering dedication to innovation and a collective commitment to unraveling the intricate connections among drugs, diseases, pathways, and targets. Our mission transcends traditional boundaries in drug discovery, seeking to unleash the complete potential of pharmaceutical networks for drug repurposing and beyond.
 
 {% include section.html %}
 
