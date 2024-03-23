@@ -5,6 +5,7 @@ description: Team member
 links:
   email: ls763344978@gmail.com
   linkedin: xiaosong-liu-88288b121
+  github: xiaosong-666
 ---
 
 PostDoc research at Institut Pasteur, with expetises in in silico drug design, computational chemistry, and machine learning.
