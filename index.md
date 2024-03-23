@@ -34,11 +34,11 @@ Unraveling the Complexity of Biology and Pharmacology: Empowering Drug Discovery
 
 {% capture text %}
 
-"Connecting the Dots: Navigating Complex Biological Networks"
-"Unlocking Insights: Harnessing Big Data for Biomedical Discovery"
-"Mapping the Future of Medicine: Transformative Insights at Your Fingertips"
-"Bridging digital and life science: Empowering Innovations with Integrated Data"
-"From Data to Discovery: Revolutionizing Drug Development with Intelligent Graphs"
+Connecting the Dots: Navigating Complex Biological Networks; 
+Unlocking Insights: Harnessing Big Data for Biomedical Discovery; 
+Mapping the Future of Medicine: Transformative Insights at Your Fingertips; 
+Bridging digital and life science: Empowering Innovations with Integrated Data; 
+From Data to Discovery: Revolutionizing Drug Development with Intelligent Graphs
 
 {%
   include button.html
@@ -63,11 +63,11 @@ Unraveling the Complexity of Biology and Pharmacology: Empowering Drug Discovery
 
 {% capture text %}
 
-"Dedicated Experts Driving Biomedical Innovation"
-"Collaborative Minds Shaping the Future of Healthcare"
-"Passionate Professionals Fostering Breakthroughs in BioMedicine"
-"Diverse Talents Uniting for Impactful Solutions"
-"Leaders in Biomedical Informatics and Data Science"
+Dedicated Experts Driving Biomedical Innovation;
+Collaborative Minds Shaping the Future of Healthcare;
+Passionate Professionals Fostering Breakthroughs in BioMedicine;
+Diverse Talents Uniting for Impactful Solutions;
+Leaders in Biomedical Informatics and Data Science
 
 {%
   include button.html
