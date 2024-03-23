@@ -14,8 +14,6 @@ At GraPharma, we are propelled by an unwavering dedication to innovation and a c
 
 ## Highlighted
 
-
-
 {% include section.html %}
 
 
@@ -23,7 +21,7 @@ At GraPharma, we are propelled by an unwavering dedication to innovation and a c
 
 {%
   include figure.html
-  image="images/contactus-1.jpg"
+  image="images/graph_pharmaco-01.gif"
   caption=" "
 %}
 
@@ -33,7 +31,7 @@ At GraPharma, we are propelled by an unwavering dedication to innovation and a c
 
 {%
   include figure.html
-  image="images/contactus-2.jpg"
+  image="images/graph_pharmaco-02.gif"
   caption=" "
 %}
 
