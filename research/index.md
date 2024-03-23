@@ -37,6 +37,6 @@ At GraPharm, we are propelled by an unwavering dedication to innovation and a co
 
 {% endcapture %}
 
-
+{% include cols.html col1=col1 col2=col2 %}
 
 
