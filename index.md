@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/1-logo.jpg"
+  image="images/1-logo.png"
   link="research"
   title="About Us"
   text=text
