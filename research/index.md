@@ -12,7 +12,7 @@ At GraPharma, we're not just a team; we're a vibrant community of young, passion
 
 {% include section.html %}
 
-## Highlighted
+## Highlighted 
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
