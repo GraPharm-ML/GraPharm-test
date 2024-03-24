@@ -1,6 +1,6 @@
 
 - title: Demo Package
-  group: featured
+  group: 
   image: images/youtube.jpg
   link: https://youtube.com/
   description: interesting showcases, our platform can help
@@ -26,7 +26,7 @@
 - title: Dataset Package
   group: featured
   image: images/data_logo.jpg
-  link: https://github.com/
+  link: https://github.com/gnn4dr/DRKG
   description: the dataset used for model trainning
   tags:
     - dataset
