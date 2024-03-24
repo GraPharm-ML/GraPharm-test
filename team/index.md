@@ -22,9 +22,9 @@ At GraPharm, we're not just a team; we're a vibrant community of young, passiona
 
 {% capture content %}
 
-{% include figure.html image="images/fine-1.jpg" %}
+{% include figure.html image="images/fine-1.jpeg" %}
 {% include figure.html image="images/2-team.jpg" %}
-{% include figure.html image="images/fine-2.png" %}
+{% include figure.html image="images/fine-2.jpeg" %}
 
 {% endcapture %}
 
