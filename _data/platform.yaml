@@ -1,8 +1,8 @@
 
 - title: Demo Package
-  group: 
+  group: featured
   image: images/youtube.jpg
-  link: https://youtube.com/
+  link: https://youtu.be/xDTm8RcjpEY
   description: interesting showcases, our platform can help
   tags:
     - demo, youtube
