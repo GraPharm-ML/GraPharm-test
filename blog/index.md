@@ -16,6 +16,12 @@ Welcome to the GraPharm Blog, your multifaceted platform for discovering the lat
 
 {% include search-info.html %}
 
+## Presentations
+
+
+{% include section.html %}
+
+
 ## Art gallery: Where Science Meets Creativity
 {% capture col1 %}
 
@@ -42,6 +48,4 @@ Welcome to the GraPharm Blog, your multifaceted platform for discovering the lat
 
 
 {% include section.html %}
-
-## Latest News
 
