@@ -20,8 +20,7 @@ By integrating diverse sources of information, GraPharm empowers researchers and
 
 ## Featured
 
-
-<div class="container">
+<div class="container" style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
   {% include list.html component="card" data="platform" filters="group: featured" style="small" %}
 </div>
 {% include section.html %}
