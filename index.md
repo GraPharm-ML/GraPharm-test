@@ -15,7 +15,7 @@ Unraveling the Complexity of Biology and Pharmacology: Empowering Drug Discovery
 
 {%
   include button.html
-  link="research"
+  link="aboutus"
   text="See GraPharm"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,7 +27,7 @@ Unraveling the Complexity of Biology and Pharmacology: Empowering Drug Discovery
 {%
   include feature.html
   image="images/1-logo.png"
-  link="research"
+  link="aboutus"
   title="About Us"
   text=text
 %}
