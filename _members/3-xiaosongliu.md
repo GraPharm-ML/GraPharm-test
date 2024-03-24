@@ -8,4 +8,4 @@ links:
   github: xiaosong-666
 ---
 
-I am a PostDoc researcher at Institut Pasteur, focus on the drug design using AI based methods. I used to be a computational chemist working at industry company, leading drug discovery projects with expetises in in silico drug design, computational chemistry, and machine learning.
+I am a PostDoc researcher at Institut Pasteur, focus on the drug design using AI based methods. I used to be a computational chemist working at industry company, leading drug discovery projects with expertises in in silico drug design, computational chemistry, and machine learning.
