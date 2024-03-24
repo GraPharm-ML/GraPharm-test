@@ -20,7 +20,12 @@ By integrating diverse sources of information, GraPharm empowers researchers and
 
 ## Featured
 
-{% include list.html component="card" data="projects" filters="group: featured" style="small" %}
+<div class="container">
+  <div class="column">
+    <!-- Content for the first column goes here -->
+    {% include list.html component="card" data="platform" filters="group: featured" style="small" %}
+  </div>
+</div>
 
 {% include section.html %}
 
