@@ -10,7 +10,7 @@
 - title: Web Server
   group: featured
   image: images/1-logo.png
-  link: https://grapharm.streamlit.app/
+  link: http://192.168.32.35:8501/
   description: easy to run, find your connections 
   tags:
     - web server
