@@ -10,7 +10,7 @@
 - title: Web Server
   group: featured
   image: images/1-logo.png
-  link: http://192.168.32.35:8501/
+  link: http://129.199.33.52:8501
   description: easy to run, find your connections 
   tags:
     - web server
