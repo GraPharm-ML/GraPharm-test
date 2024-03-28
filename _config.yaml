@@ -17,6 +17,9 @@ links:
   twitter: GraPharm-ML
   youtube: GraPharm-ML
 
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: G-3QDR9RNFF1
+
 ### jekyll settings
 
 # front matter defaults
